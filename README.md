@@ -8,12 +8,6 @@ Más allá de ser una Layer 1, KII ha construido un ecosistema de wallets móvil
 
 
 
-<video width="1000">
-  <source src='https://github.com/KIIGLOBALSAS/KIIGLOBALSAS/assets/131917617/d906c374-b4d8-45b6-8ebd-da699474670e'>
-<video/>
-
-
-
 
 
 
