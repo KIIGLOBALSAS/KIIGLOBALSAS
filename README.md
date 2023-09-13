@@ -14,7 +14,7 @@ Más allá de ser una Layer 1, KII ha construido un ecosistema de wallets móvil
 <a href="https://kiiglobal.io"><img alt="Website" src="https://img.shields.io/badge/Website-KiiGlobal-purple?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/company/kiiglobal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kii%20Global-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kii_global"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kii_Global-red?style=flat-square&logo=instagram"></a>
-<img alt="Email" src="https://img.shields.io/badge/Email-jsrodriguez049@gmail.com-green?style=flat-square&logo=gmail">
+![](https://dcbadge.vercel.app/api/shield/USERID)
 </p>
 
 
