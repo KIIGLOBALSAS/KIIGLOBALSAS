@@ -2,6 +2,6 @@
 
 <h1>Kii Global</h1>
 
-<p>Dando un paso hacia un sistema descentralizado y sin intermediarios, en Kii somos pioneros en desarrollar en la región una Blockchain pensada en las personas, la cual es exacta y mejorada frente a otras blockchains existentes, ofreciendo a las personas posibilidades financieras traducidas en ahorros e inversiones eficientes a través de un modelo pensado en la Inclusión financiera.
+<p>KII es una Blockchain Layer 1 PoW y PoSe cifrada, descentralizada y mejorada, con una cantidad finita de monedas emitidas. Ha sido creada para transacciones instantáneas y seguras con un enfoque en entrega y liquidación “hasta la puerta”.
 
-Somos la primera blockchain en la región que cuenta con todas las certificaciones y regulaciones para afirmar que somos los más seguros y rápidos.</p>
+Más allá de ser una Layer 1, KII ha construido un ecosistema de wallets móviles con liquidez CEX con la capacidad de integrarse en la infraestructura de pagos existente. Al proveer los accesos ”on-rail” y “off-rail” más robustos en el ámbito de remesas de Latinoamérica, KII está permitiendo que más usuarios procesen sus pagos a costos inferiores al 1%.</p>
