@@ -6,6 +6,9 @@
 
 Más allá de ser una Layer 1, KII ha construido un ecosistema de wallets móviles con liquidez CEX con la capacidad de integrarse en la infraestructura de pagos existente. Al proveer los accesos ”on-rail” y “off-rail” más robustos en el ámbito de remesas de Latinoamérica, KII está permitiendo que más usuarios procesen sus pagos a costos inferiores al 1%.</p>
 
+<h2>¿Por qué KII?</h2>
+
+<p>Cada año más de 10 millones de Latinos se mudan al extranjero, lejos de su país de origen, dejando a sus familias y amigos. Actualmente hay más de 60 millones de latinos viviendo en Estados Unidos. En los últimos 10 años, más de 6 millones de venezolanos se han mudado al extranjero dejando su país. KII se construyó con la misión de mejorar la calidad de vida de familias Latinas, para que cada persona se sienta un poco más cerca de casa.</p>
 
 
 
