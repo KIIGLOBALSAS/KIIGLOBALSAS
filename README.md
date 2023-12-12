@@ -12,9 +12,9 @@ Más allá de ser una Layer 1, KII ha construido un ecosistema de wallets móvil
 
 <p align="center">
 <a href="https://kiiglobal.io"><img alt="KIIGlobal" src="https://img.shields.io/badge/Website-Kii_Global?logo=google-chrome" target="blank"></a>
-<a href="https://kiiglobal.io"><img alt="KIIEX" src="https://img.shields.io/badge/KIIEX-Kii_Global?logo=google-chrome" target="blank"></a>
-<a href="https://kiiglobal.io"><img alt="KIIWallet" src="https://img.shields.io/badge/Website-Kii_Global?logo=google-chrome" target="blank"></a>
-<a href="https://kiiglobal.io"><img alt="Website" src="https://img.shields.io/badge/Website-Kii_Global?logo=google-chrome" target="blank"></a>
+<a href="https://kiiex.io"><img alt="KIIEX" src="https://img.shields.io/badge/KIIEX?logo=google-chrome" target="blank"></a>
+<a href="https://wallet.kiiglobal.io"><img alt="KIIWallet" src="https://img.shields.io/badge/KIIWallet?logo=google-chrome" target="blank"></a>
+<a href="https://ekiisistema.io"><img alt="eKIIsistema" src="https://img.shields.io/badge/eKIIsistema?logo=google-chrome" target="blank"></a>
 <a href="https://www.linkedin.com/company/kiiglobal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kii%20Global-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/kii_global"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kii_Global-red?style=flat-square&logo=instagram"></a>
 <a href="https://discord.com/invite/wt4Jc4QC5b"><img alt="Discord" src="https://img.shields.io/badge/Discord-Kii_Global-purple?style=flat-square&logo=discord"></a>
