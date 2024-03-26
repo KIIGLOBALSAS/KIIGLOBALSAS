@@ -11,7 +11,7 @@ Más allá de ser una Layer 1, KII ha construido un ecosistema de wallets móvil
 <p>Cada año más de 10 millones de Latinos se mudan al extranjero, lejos de su país de origen, dejando a sus familias y amigos. Actualmente hay más de 60 millones de latinos viviendo en Estados Unidos. En los últimos 10 años, más de 6 millones de venezolanos se han mudado al extranjero dejando su país. KII se construyó con la misión de mejorar la calidad de vida de familias Latinas, para que cada persona se sienta un poco más cerca de casa.</p>
 
 <p align="center">
-<a href="https://kiiglobal.io"><img alt="KIIGlobal" src="https://img.shields.io/badge/Website-Kii_Global?logo=google-chrome" target="blank"></a>
+<a href="https://kiiglobal.io"><img alt="Kii Global" src="https://img.shields.io/badge/www-kiiglobal.io-brightgreen?logo=google-chrome&logoColor=white" target="blank"></a>
 <a href="https://kiiex.io"><img alt="KIIEX" src="https://img.shields.io/badge/KIIEX-Kii_Global?logo=google-chrome" target="blank"></a>
 <a href="https://wallet.kiiglobal.io"><img alt="KIIWallet" src="https://img.shields.io/badge/KIIWallet-Kii_Global?logo=google-chrome" target="blank"></a>
 <a href="https://ekiisistema.io"><img alt="eKIIsistema" src="https://img.shields.io/badge/eKIIsistema-Kii_Global?logo=google-chrome" target="blank"></a>
