@@ -1,25 +1,38 @@
 <img width="1000" alt="fondo-kii" src="https://github.com/KIIGLOBALSAS/KIIGLOBALSAS/assets/131917617/3e85bfb4-e313-431d-a963-37fa4a68886e">
 
-<h1>Kii Global</h1>
+<h1 style="text-align: center;">Kii Blockchain</h1>
+<h2 style="text-align: center;">Tecnología blockchain de última generación impulsada por Tendermint BFT</h2>
 
-<p>KII es una Blockchain Layer 1 PoW y PoSe cifrada, descentralizada y mejorada, con una cantidad finita de monedas emitidas. Ha sido creada para transacciones instantáneas y seguras con un enfoque en entrega y liquidación “hasta la puerta”.
+<p>La primera blockchain Layer 1 en América Latina que introduce la nueva era económmica de la Web3, compatible con EVM, conectada al Cosmos Hub: despliega tus smart contracts con Solidity y construye en la blockchain más rápida de la región. Kii ejecuta validadores súper rápidos que generan bloques cada 5 segundos. Las transacciones son instantáneas y las tarifas de red son de una fracción de un peso.
 
-Más allá de ser una Layer 1, KII ha construido un ecosistema de wallets móviles con liquidez CEX con la capacidad de integrarse en la infraestructura de pagos existente. Al proveer los accesos ”on-rail” y “off-rail” más robustos en el ámbito de remesas de Latinoamérica, KII está permitiendo que más usuarios procesen sus pagos a costos inferiores al 1%.</p>
+La Blockchain de Kii está diseñada para resolver los mayores problemas económicos del mundo en cuanto a liquidación y transferencia de valor. Nuestro ecosistema está disponible y es desplegable en iOS, Android y una gama de aplicaciones web. Con la Blockchain Kii, puedes construir todo lo que imagines, conectando finanzas descentralizadas y centralizadas a través de sólidas soluciones tecnológicas.</p>
 
-<h2>¿Por qué KII?</h2>
+<h2 style="text-align: center;">¿Por qué KII?</h2>
 
-<p>Cada año más de 10 millones de Latinos se mudan al extranjero, lejos de su país de origen, dejando a sus familias y amigos. Actualmente hay más de 60 millones de latinos viviendo en Estados Unidos. En los últimos 10 años, más de 6 millones de venezolanos se han mudado al extranjero dejando su país. KII se construyó con la misión de mejorar la calidad de vida de familias Latinas, para que cada persona se sienta un poco más cerca de casa.</p>
+<p>Somos pioneros en crear un ecosistema blockchain en Latinoamérica. Somos un nuevo mercado que proporciona formalidad, estructura y respaldo, lejos de las malas prácticas del sector tradicional. Todo a partir de tecnología blockchain de punta, con las mejores soluciones y el mejor equipo de trabajo.</p>
+
+<h2 style="text-align: center;">Conoce más en nuestras redes sociales</h2>
 
 <p align="center">
-<a href="https://kiiglobal.io"><img alt="Kii Global" src="https://img.shields.io/badge/www-kiiglobal.io-brightgreen?logo=google-chrome&logoColor=white" target="blank"></a>
-<a href="https://kiiex.io"><img alt="KIIEX" src="https://img.shields.io/badge/KIIEX-Kii_Global?logo=google-chrome" target="blank"></a>
-<a href="https://wallet.kiiglobal.io"><img alt="KIIWallet" src="https://img.shields.io/badge/KIIWallet-Kii_Global?logo=google-chrome" target="blank"></a>
-<a href="https://ekiisistema.io"><img alt="eKIIsistema" src="https://img.shields.io/badge/eKIIsistema-Kii_Global?logo=google-chrome" target="blank"></a>
-<a href="https://www.linkedin.com/company/kiiglobal"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Kii%20Global-blue?style=flat-square&logo=linkedin"></a>
-<a href="https://www.instagram.com/kii_global"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-Kii_Global-red?style=flat-square&logo=instagram"></a>
-<a href="https://discord.com/invite/wt4Jc4QC5b"><img alt="Discord" src="https://img.shields.io/badge/Discord-Kii_Global-purple?style=flat-square&logo=discord"></a>
+<a href="https://kiiglobal.io"><img alt="Kii Global" src="https://img.shields.io/badge/www-kiiglobal.io-gray?logo=google-chrome&logoColor=white&labelColor=%23C100FF" target="blank"></a>
+<a href="https://kiiex.io"><img alt="KIIEX" src="https://img.shields.io/badge/www-kiie.io-gray?logo=google-chrome&logoColor=white&labelColor=%23C100FF" target="blank"></a>
+<a href="https://ekiisistema.io"><img alt="eKIIsistema" src="https://img.shields.io/badge/www-ekiisistema.com-gray?logo=google-chrome&logoColor=white&labelColor=%23C100FF" target="blank"></a>
+<a href="https://wallet.kiiglobal.io"><img alt="Kii Wallet" src="https://img.shields.io/badge/www-KiiWallet-gray?logo=google-chrome&logoColor=white&labelColor=%23C100FF" target="blank"></a>
+<a href="https://app.kiiglobal.io"><img alt="Explorer" src="https://img.shields.io/badge/www-Explorer-gray?logo=google-chrome&logoColor=white&labelColor=%23C100FF" target="blank"></a>
+<a href="https://kii-blockchain.gitbook.io/docs/overview/the-kii-blockchain"><img alt="Gitbook" src="https://img.shields.io/badge/www-Docs-gray?logo=Gitbook&logoColor=white&labelColor=%23C100FF" target="blank"></a>
+<br>
+<a href="https://www.linkedin.com/company/kiiglobal/"><img alt="X-witter" src="https://img.shields.io/badge/Twitter-kiiglobal_-gray?logo=X&logoColor=white&labelColor=%230061FF"></a>
+<a href="https://discord.com/invite/nTNmWJV4ka"><img alt="Discord" src="https://img.shields.io/badge/Discord-kiiglobal-gray?logo=discord&logoColor=white&labelColor=%233B91FF"></a>
+<a href="https://t.me/kiiglobal"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-kiiglobal-gray?logo=telegram&logoColor=white&labelColor=%233B47FF"></a>
+<a href="https://www.linkedin.com/company/kiiglobal/"><img alt="LinkedIn" src="https://img.shields.io/badge/Linkedin-kiiglobal_-gray?logo=linkedin&logoColor=white&labelColor=%231F80E0"></a>
+<a href="https://www.facebook.com/kiiglobal"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-kiiglobal_-gray?logo=facebook&logoColor=white&labelColor=%23337DFF"></a>
+<br>
+<a href="https://t.me/kiiglobal"><img alt="Galxe" src="https://img.shields.io/badge/Galxe-Kii%20Blockchain-gray?labelColor=%2301032C"></a>
+<a href="https://galxe.com/KiiBlockchain"><img alt="Zealy" src="https://img.shields.io/badge/Zealy-kiiglobal-gray?labelColor=%23310445"></a>
+<a href="https://www.instagram.com/kiiglobal_/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-kiiglobal_-gray?logo=instagram&logoColor=white&labelColor=%23F30B9C"></a>
+<a href="https://www.youtube.com/@kiiglobal_"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-kiiglobal_-gray?logo=youtube&logoColor=white&labelColor=%23E30000"></a>
+<a href="https://www.tiktok.com/@kiiglobal_"><img alt="TikTok" src="https://img.shields.io/badge/Tiktok-kiiglobal_-gray?logo=tiktok&logoColor=white&labelColor=%23E71D4F"></a>
 </p>
-
 
 
 
