@@ -11,6 +11,41 @@ La Blockchain de Kii está diseñada para resolver los mayores problemas económ
 
 <p>Somos pioneros en crear un ecosistema blockchain en Latinoamérica. Somos un nuevo mercado que proporciona formalidad, estructura y respaldo, lejos de las malas prácticas del sector tradicional. Todo a partir de tecnología blockchain de punta, con las mejores soluciones y el mejor equipo de trabajo.</p>
 
+<h2 align="center">Videos sobre Kii Global</h2>
+
+<table width="80%" align="center" >
+<tr border="none">
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://youtu.be/vGCpw8Iu6lc" title="Go to Source">
+         <img align="center" width=100% src="https://i.ytimg.com/an_webp/vGCpw8Iu6lc/mqdefault_6s.webp?du=3000&sqp=CLHFjbAG&rs=AOn4CLBCXFNqMhsrLyX12zImhOiYkhQ38A" alt="El ecosistema blockchain de latinos para latinos" />
+      </a>
+    </p>       
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://youtu.be/euR0MDAsTmc" title="Go to Source">
+         <img align="center" width=100% src="https://i.ytimg.com/an_webp/euR0MDAsTmc/mqdefault_6s.webp?du=3000&sqp=CMPBjbAG&rs=AOn4CLD92Wy3jHUp2vaSllfMm_zhlZAiCg" alt="Conoce Kii Global y su ecosistema blockchain" />
+      </a>
+    </p>       
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="hhttps://youtu.be/n9xyfKAg918" title="Go to Source">
+         <img align="center" width=100% src="https://i.ytimg.com/an_webp/n9xyfKAg918/mqdefault_6s.webp?du=3000&sqp=CK-vjbAG&rs=AOn4CLB0g7FW_FL09fgdbv9FP2Ho_IPnmA" alt="Llegó KIIEX" />
+      </a>
+    </p>       
+  </td>
+  <td width="25%" align="center">
+    <p align="center">
+      <a href="https://youtu.be/ROkioVAUSu0" title="Go to Source">
+         <img align="center" width=100% src="https://i.ytimg.com/an_webp/ROkioVAUSu0/mqdefault_6s.webp?du=3000&sqp=CPm1jbAG&rs=AOn4CLBYD6v31v03Nzbjf9JHubGEg1hxNA" alt="¿Qué es Kii Global?" />
+      </a>
+    </p>       
+  </td>  
+</tr>
+</table>
+
 <h2 align="center">Conoce más en nuestras redes sociales</h2>
 
 <p align="center">
@@ -42,6 +77,3 @@ La Blockchain de Kii está diseñada para resolver los mayores problemas económ
     </a>
 </p>
 <br>
-
-
-
