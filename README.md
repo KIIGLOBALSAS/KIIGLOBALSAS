@@ -17,28 +17,28 @@ La Blockchain de Kii está diseñada para resolver los mayores problemas económ
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://youtu.be/vGCpw8Iu6lc" title="Go to Source">
+      <a href="https://youtu.be/vGCpw8Iu6lc" title="Go to Source" target="_blank" rel="noopener noreferrer">
          <img align="center" width=100% src="https://i.ytimg.com/an_webp/vGCpw8Iu6lc/mqdefault_6s.webp?du=3000&sqp=CLHFjbAG&rs=AOn4CLBCXFNqMhsrLyX12zImhOiYkhQ38A" alt="El ecosistema blockchain de latinos para latinos" />
       </a>
     </p>       
   </td>
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://youtu.be/euR0MDAsTmc" title="Go to Source">
+      <a href="https://youtu.be/euR0MDAsTmc" title="Go to Source" target="_blank" rel="noopener noreferrer">
          <img align="center" width=100% src="https://i.ytimg.com/an_webp/euR0MDAsTmc/mqdefault_6s.webp?du=3000&sqp=CMPBjbAG&rs=AOn4CLD92Wy3jHUp2vaSllfMm_zhlZAiCg" alt="Conoce Kii Global y su ecosistema blockchain" />
       </a>
     </p>       
   </td>
   <td width="25%" align="center">
     <p align="center">
-      <a href="hhttps://youtu.be/n9xyfKAg918" title="Go to Source">
+      <a href="hhttps://youtu.be/n9xyfKAg918" title="Go to Source" target="_blank" rel="noopener noreferrer">
          <img align="center" width=100% src="https://i.ytimg.com/an_webp/n9xyfKAg918/mqdefault_6s.webp?du=3000&sqp=CK-vjbAG&rs=AOn4CLB0g7FW_FL09fgdbv9FP2Ho_IPnmA" alt="Llegó KIIEX" />
       </a>
     </p>       
   </td>
   <td width="25%" align="center">
     <p align="center">
-      <a href="https://youtu.be/ROkioVAUSu0" title="Go to Source">
+      <a href="https://youtu.be/ROkioVAUSu0" title="Go to Source" target="_blank" rel="noopener noreferrer">
          <img align="center" width=100% src="https://i.ytimg.com/an_webp/ROkioVAUSu0/mqdefault_6s.webp?du=3000&sqp=CPm1jbAG&rs=AOn4CLBYD6v31v03Nzbjf9JHubGEg1hxNA" alt="¿Qué es Kii Global?" />
       </a>
     </p>       
