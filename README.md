@@ -1,4 +1,4 @@
-<img width="1000" alt="fondo-kii" src="https://github.com/KIIGLOBALSAS/KIIGLOBALSAS/assets/131917617/3e85bfb4-e313-431d-a963-37fa4a68886e">
+<img width="100%" alt="fondo-kii" src="https://github.com/KIIGLOBALSAS/KIIGLOBALSAS/assets/131917617/3e85bfb4-e313-431d-a963-37fa4a68886e">
 
 <h1 align="center">Kii Blockchain</h1>
 <h2 align="center">Tecnología blockchain de última generación impulsada por Tendermint BFT</h2>
@@ -33,6 +33,15 @@ La Blockchain de Kii está diseñada para resolver los mayores problemas económ
 <a href="https://www.youtube.com/@kiiglobal_"><img alt="Youtube" src="https://img.shields.io/badge/Youtube-kiiglobal_-gray?logo=youtube&logoColor=white&labelColor=%23E30000"></a>
 <a href="https://www.tiktok.com/@kiiglobal_"><img alt="TikTok" src="https://img.shields.io/badge/Tiktok-kiiglobal_-gray?logo=tiktok&logoColor=white&labelColor=%23E71D4F"></a>
 </p>
+
+<h2 align="center">Tecnologías que usamos</h2>
+
+<p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=react,js,html,css,vscode,aws,cloudflare,github,webflow,figma,ps,ai,ae,blender&perline=7" />
+    </a>
+</p>
+<br>
 
 
 
