@@ -1,17 +1,17 @@
 <img width="1000" alt="fondo-kii" src="https://github.com/KIIGLOBALSAS/KIIGLOBALSAS/assets/131917617/3e85bfb4-e313-431d-a963-37fa4a68886e">
 
-<h1 style="text-align: center;">Kii Blockchain</h1>
-<h2 style="text-align: center;">Tecnología blockchain de última generación impulsada por Tendermint BFT</h2>
+<h1 align="center">Kii Blockchain</h1>
+<h2 align="center">Tecnología blockchain de última generación impulsada por Tendermint BFT</h2>
 
 <p>La primera blockchain Layer 1 en América Latina que introduce la nueva era económmica de la Web3, compatible con EVM, conectada al Cosmos Hub: despliega tus smart contracts con Solidity y construye en la blockchain más rápida de la región. Kii ejecuta validadores súper rápidos que generan bloques cada 5 segundos. Las transacciones son instantáneas y las tarifas de red son de una fracción de un peso.
 
 La Blockchain de Kii está diseñada para resolver los mayores problemas económicos del mundo en cuanto a liquidación y transferencia de valor. Nuestro ecosistema está disponible y es desplegable en iOS, Android y una gama de aplicaciones web. Con la Blockchain Kii, puedes construir todo lo que imagines, conectando finanzas descentralizadas y centralizadas a través de sólidas soluciones tecnológicas.</p>
 
-<h2 style="text-align: center;">¿Por qué KII?</h2>
+<h2 align="center">¿Por qué KII?</h2>
 
 <p>Somos pioneros en crear un ecosistema blockchain en Latinoamérica. Somos un nuevo mercado que proporciona formalidad, estructura y respaldo, lejos de las malas prácticas del sector tradicional. Todo a partir de tecnología blockchain de punta, con las mejores soluciones y el mejor equipo de trabajo.</p>
 
-<h2 style="text-align: center;">Conoce más en nuestras redes sociales</h2>
+<h2 align="center">Conoce más en nuestras redes sociales</h2>
 
 <p align="center">
 <a href="https://kiiglobal.io"><img alt="Kii Global" src="https://img.shields.io/badge/www-kiiglobal.io-gray?logo=google-chrome&logoColor=white&labelColor=%23C100FF" target="blank"></a>
