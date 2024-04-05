@@ -13,7 +13,7 @@ La Blockchain de Kii está diseñada para resolver los mayores problemas económ
 
 <h2 align="center">Videos sobre Kii Global</h2>
 
-<table width="80%" align="center" >
+<table width="80%" align="center">
 <tr border="none">
   <td width="25%" align="center">
     <p align="center">
